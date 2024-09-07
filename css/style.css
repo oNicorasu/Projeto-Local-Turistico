@@ -1,0 +1,138 @@
+:root {
+   font-family: "Open Sans", sans-serif;
+}
+
+html {
+   background-color: #F5F4F0;
+}
+
+header, section, footer {
+   max-width: 1100px;
+   margin: 50px auto;
+}
+
+.headliner {
+   color: #E1624F;
+   font-size: 16px;
+   font-weight: bold;
+   text-transform: uppercase;
+   margin-bottom: 0px;
+}
+
+h1 {
+   color: #1B1B1B;
+   font-size: 36px;
+   font-weight: bold;
+   margin-top: 5px;
+   margin-bottom: 40px;
+}
+
+h2 {
+   color: #1B1B1B;
+   font-size: 32px;
+   font-weight: bold;
+   margin-top: 0px;
+   margin-bottom: 10px;
+}
+
+h3 {
+   color: #1B1B1B;
+   font-size: 28px;
+   font-weight: bold;
+   margin: 10px 0px 5px;
+   padding-left: 10px;
+}
+
+.descricao img {
+   width: 1120px;
+   height: 650px;
+   border-radius: 28px;
+   object-fit: cover;
+}
+
+#legenda {
+   font-size: 16px;
+   font-style: italic;
+   color: #333333;
+   text-align: center;
+}
+
+.divisor {
+   width: 100%;
+   height: 1px;
+   margin: 36px 0;
+   background-color: #d9d9d9;
+}
+
+.content{
+   margin: 60px 0px;
+}
+
+.paragrafo {
+   color: #333333;
+   font-size: 16px;
+   font-weight: normal;
+   margin: 0;
+}
+
+ul {
+   padding: 0;
+}
+
+li {
+   list-style: none;
+}
+
+li img {
+   width: 1120px;
+   height: 350px;
+   border-radius: 28px;
+   object-fit: cover;
+}
+
+li .paragrafo {
+   margin-bottom: 48px;
+}
+
+.hist {
+   color: #0C51A7;
+   font-weight: bold;
+}
+
+#couple {
+   color: #591B98;
+
+   font-weight: bold;
+}
+
+#family {
+   color: #E5245E;
+   font-weight: bold;
+}
+
+#budget {
+   color: #E95E10;
+   font-weight: bold;
+}
+
+.paragrafoFinal {
+   text-align: center;
+   margin-top: 40px;
+   margin-bottom: 65px;
+}
+
+footer {
+   max-width: 1100px;
+}
+
+footer p {
+   font-family: "Alice";
+   color: #333333;
+   font-size: 16px;
+   font-weight: normal;
+   text-align: center;
+}
+
+p img {
+   height: 16px;
+}
